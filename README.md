@@ -26,10 +26,10 @@ This project uses :
 ## About the project
 
 This project was realized with 4 other students at ESILV.
-Arthur Gay-Bellile
-Chloé Coursimault
-Octave Lanrans
-Maxime Geniess
+* Arthur Gay-Bellile
+* Chloé Coursimault
+* Octave Lanrans
+* Maxime Geniess
 
 ## Helpful Links
 
